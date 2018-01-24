@@ -1,0 +1,10 @@
+Table of Contents
+   -----------------
+
+ 
+1.open terminal.
+2.to install mysql type "sudo apt-get install mysql-server".
+3.After installing type mysql -u root -p.
+4.then the mysql console is created.
+5.Type the commands on mysql terminal which was used in the lab report.
+6.it is ready to connect mysql in linux.

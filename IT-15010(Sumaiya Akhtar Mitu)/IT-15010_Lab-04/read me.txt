@@ -1,0 +1,8 @@
+Table of Contents
+   -----------------
+
+ 
+1.open the terminal.
+2.use the commands used in lab report to check permission.
+3.it can also be changed the file permission using some commands.
+4.There will also used commands for changing ownership.

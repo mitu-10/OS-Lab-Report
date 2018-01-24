@@ -1,0 +1,12 @@
+Table of Contents
+   -----------------
+
+ 
+1.open the terminal.
+2.type FCFS.c then c file will be created.
+3.complete the program in c file.
+4.then save it.
+5.after that type "gcc -o FCFS FCFS.c" to compile the code.
+6.then type "./FCFS".
+7.after that the output will show.
+

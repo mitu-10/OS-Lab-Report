@@ -1,0 +1,7 @@
+Table of Contents
+   -----------------
+
+ 
+1.open terminal.
+2.type the commands and clicl enter.
+3.After typing commands it will show the output.

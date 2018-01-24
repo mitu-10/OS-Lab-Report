@@ -1,0 +1,9 @@
+Table of Contents
+   -----------------
+
+ 
+1.create a bootable media.
+2.Double click on “Install Linux Mint” installer icon.
+3.click on “Continue” button.
+4.Next remove the installation USB/DVD and then, click “Restart Now” to reboot the machine.
+5.It is ready to Linux Operating System.

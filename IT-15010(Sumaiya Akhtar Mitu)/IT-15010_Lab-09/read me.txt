@@ -1,0 +1,12 @@
+Table of Contents
+   -----------------
+
+ 
+1.open the terminal.
+2.type Round_robin.c then c file will be created.
+3.complete the program in c file.
+4.then save it.
+5.after that type "gcc -o Round_robin Round_robin.c" to compile the code.
+6.then type "./Round_robin".
+7.after that the output will show.
+

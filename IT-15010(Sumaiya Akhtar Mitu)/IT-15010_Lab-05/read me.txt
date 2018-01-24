@@ -1,0 +1,9 @@
+Table of Contents
+   -----------------
+
+ 
+1.open the terminal.
+2.type ps aux that will show all processes.
+3.type pstree.
+4.type "kill" to kill a process.
+
